@@ -1,3 +1,5 @@
+![minipops 7](minipops7.png)
+
 # Keio Korg Minipops 7
 
 [Jean-Michel Jarre](https://en.wikipedia.org/wiki/Jean-Michel_Jarre)
