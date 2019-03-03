@@ -11,6 +11,7 @@ Kevin Schroder demonstrates this @0:54 in his [youtube video](https://www.youtub
 
 ## Other links
 
+- Hi-res images, and some videos at [Audio Fanzine](https://en.audiofanzine.com/drum-machine/korg/mini-pops-7/)
 
 - Demo video by [Alba Ectasy](https://discchord.com/blog/2016/9/29/korg-keio-minipops-7.html).
 
