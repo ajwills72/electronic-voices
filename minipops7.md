@@ -11,11 +11,13 @@ Kevin Schroder demonstrates this @0:54 in his [youtube video](https://www.youtub
 
 ## Other links
 
-- Hi-res images, and some videos at [Audio Fanzine](https://en.audiofanzine.com/drum-machine/korg/mini-pops-7/)
+- PDF of [user manual](https://www.korg.com/us/support/download/manual/1/402/4020/) at Korg USA.
+
+- Hi-res images, and some videos at [Audio Fanzine](https://en.audiofanzine.com/drum-machine/korg/mini-pops-7/).
 
 - Demo video by [Alba Ectasy](https://discchord.com/blog/2016/9/29/korg-keio-minipops-7.html).
 
-- Proprietary sample pack (RX2) by [Dubsounds](http://www.dubsounds.com/mp7.htm)
+- Proprietary sample pack (RX2) by [Dubsounds](http://www.dubsounds.com/mp7.htm).
 
 - Proprietary emulation (Konkat) [Oxypops](https://www.kontakthub.com/product/oxypops-kontakt-drum-machine/) by Forgotten Keys.
 
