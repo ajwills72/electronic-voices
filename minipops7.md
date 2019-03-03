@@ -2,6 +2,8 @@
 
 # Keio Korg Minipops 7
 
+An analogue preset drum machine released in 1966. There are 15 voices, produced by tuned-oscillator inductor-based circuits. There are 20 preset rhythms, which can combined by pressing more than one selector button.
+
 [Jean-Michel Jarre](https://en.wikipedia.org/wiki/Jean-Michel_Jarre)
 has used the Minipops 7 ([1][1], [2][2]). In [Oxygene](https://en.wikipedia.org/wiki/Oxyg%C3%A8ne)
 , part 4, he uses the Beguine / Slow Rock combination with Quijada and Tamborine ([1][1]). 
