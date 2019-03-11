@@ -1,7 +1,7 @@
 # electronic-voices
 A repository of resources about making musical sounds electronically. A work in progress, currently there are pages for:
 
-- Keio / Korg [Minipops 7](minipops7.html)
+- Keio / Korg [Minipops 7](minipops7.md).
 
 ## Acknowledgements
 
