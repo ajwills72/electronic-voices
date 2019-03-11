@@ -4,12 +4,14 @@
 
 An analogue preset drum machine released in 1966. There are 15 voices, produced by tuned-oscillator inductor-based circuits. There are 20 preset rhythms, which can combined by pressing more than one selector button. The quijada, guiro, and tamborine have their own volume controls. There is also a 'balance' control (not sure what that does).
 
+- Drum hit samples (assumed public domain) at [KB's Drumsamples](https://samples.kb6.de/downloads.php), also available on [github](https://github.com/ajwills72/electronic-voices).
+
 [Jean-Michel Jarre](https://en.wikipedia.org/wiki/Jean-Michel_Jarre)
 has used the Minipops 7 ([1][1], [2][2]). In [Oxygene](https://en.wikipedia.org/wiki/Oxyg%C3%A8ne)
 , part 4, he uses the Beguine / Slow Rock combination with Quijada and Tamborine ([1][1]). 
 Kevin Schroder demonstrates this @0:54 in his [youtube video](https://www.youtube.com/watch?v=i11OZGCMoCo).
 
-- Drum hit samples (assumed public domain) at [KB's Drumsamples](https://samples.kb6.de/downloads.php), also available on [github](https://github.com/ajwills72/electronic-voices/minipops7/samples).
+![oxygene 4](minipops7/oxygene4/oxygene4pattern.png)
 
 ## Other links
 
