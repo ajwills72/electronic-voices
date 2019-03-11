@@ -9,7 +9,7 @@ has used the Minipops 7 ([1][1], [2][2]). In [Oxygene](https://en.wikipedia.org/
 , part 4, he uses the Beguine / Slow Rock combination with Quijada and Tamborine ([1][1]). 
 Kevin Schroder demonstrates this @0:54 in his [youtube video](https://www.youtube.com/watch?v=i11OZGCMoCo).
 
-- Drum hit samples (assumed public domain) at [KB's Drumsamples](https://samples.kb6.de/downloads.php), also available on [github](https://github.com/ajwills72/samples/minipops7/samples).
+- Drum hit samples (assumed public domain) at [KB's Drumsamples](https://samples.kb6.de/downloads.php), also available on [github](https://github.com/ajwills72/electronic-voices/samples/minipops7/samples).
 
 ## Other links
 
