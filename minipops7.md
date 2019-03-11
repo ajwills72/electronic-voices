@@ -2,7 +2,7 @@
 
 # Keio Korg Minipops 7
 
-An analogue preset drum machine released in 1966. There are 15 voices, produced by tuned-oscillator inductor-based circuits. There are 20 preset rhythms, which can combined by pressing more than one selector button. The quijada, guiro, and tamborine have their own volume controls. There is also a 'balance' control (not sure what that does).
+An analogue preset drum machine released in 1966. There are 15 voices, produced by tuned-oscillator inductor-based circuits. There are 20 preset rhythms, which can be combined by pressing more than one selector button. The quijada, guiro, and tamborine have their own volume controls. There is also a 'balance' control (not sure what that does).
 
 ## As heard on...
 
@@ -26,7 +26,7 @@ The [Electronic Voices](https://github.com/ajwills72/electronic-voices) reposito
 
 - Demo video by [Alba Ectasy](https://discchord.com/blog/2016/9/29/korg-keio-minipops-7.html).
 
-- Kevin Schroder demonstrates the Oxygene 4 patterb @0:54 in his [youtube video](https://www.youtube.com/watch?v=i11OZGCMoCo).
+- Kevin Schroder demonstrates the Oxygene 4 pattern @0:54 in his [youtube video](https://www.youtube.com/watch?v=i11OZGCMoCo).
 
 - Proprietary sample pack (RX2) by [Dubsounds](http://www.dubsounds.com/mp7.htm).
 
